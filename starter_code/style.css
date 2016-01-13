@@ -1,0 +1,24 @@
+
+body{
+    color: black;
+}
+body {
+    background-color: lightblue;
+}
+
+body {
+    background-image: url("http://www.momorialcards.com/images/light_textured_backround.jpg");
+    background-repeat: no-repeat;
+    background-position: right top;
+}
+.floating-box {
+    float: left;
+    width: 150px;
+    height: 75px;
+    margin: 10px;
+    border: 3px solid #73AD21; 
+}
+
+.after-box {
+    clear: left;
+}
